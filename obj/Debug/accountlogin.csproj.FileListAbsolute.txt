@@ -1,0 +1,62 @@
+D:\dbms project\accountlogin\obj\Debug\accountlogin.csproj.AssemblyReference.cache
+D:\dbms project\accountlogin\obj\Debug\accountlogin.csproj.SuggestedBindingRedirects.cache
+D:\dbms project\accountlogin\obj\Debug\accountlogin.exe.config
+D:\dbms project\accountlogin\obj\Debug\accountlogin.Form1.resources
+D:\dbms project\accountlogin\obj\Debug\accountlogin.Properties.Resources.resources
+D:\dbms project\accountlogin\obj\Debug\accountlogin.csproj.GenerateResource.cache
+D:\dbms project\accountlogin\obj\Debug\accountlogin.csproj.CoreCompileInputs.cache
+D:\dbms project\accountlogin\bin\Debug\accountlogin.exe.config
+D:\dbms project\accountlogin\bin\Debug\accountlogin.exe
+D:\dbms project\accountlogin\bin\Debug\accountlogin.pdb
+D:\dbms project\accountlogin\bin\Debug\MySql.Data.dll
+D:\dbms project\accountlogin\bin\Debug\Google.Protobuf.dll
+D:\dbms project\accountlogin\bin\Debug\ZstdNet.dll
+D:\dbms project\accountlogin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\dbms project\accountlogin\bin\Debug\BouncyCastle.Crypto.dll
+D:\dbms project\accountlogin\bin\Debug\Ubiety.Dns.Core.dll
+D:\dbms project\accountlogin\bin\Debug\System.Memory.dll
+D:\dbms project\accountlogin\bin\Debug\System.Buffers.dll
+D:\dbms project\accountlogin\bin\Debug\K4os.Compression.LZ4.dll
+D:\dbms project\accountlogin\bin\Debug\K4os.Hash.xxHash.dll
+D:\dbms project\accountlogin\bin\Debug\MySql.Data.xml
+D:\dbms project\accountlogin\obj\Debug\accountlogin.csproj.CopyComplete
+D:\dbms project\accountlogin\obj\Debug\accountlogin.exe
+D:\dbms project\accountlogin\obj\Debug\accountlogin.pdb
+D:\dbms project\accountlogin\obj\Debug\accountlogin.adminDahboard.resources
+D:\dbms project\accountlogin\obj\Debug\accountlogin.addUserControl1.resources
+D:\dbms project\accountlogin\obj\Debug\accountlogin.RemoveUserControl1.resources
+D:\dbms project\accountlogin\obj\Debug\accountlogin.achivementsUserControl.resources
+D:\dbms project\accountlogin\obj\Debug\accountlogin.FacultyDashboard.resources
+D:\dbms project\from scratch\accountlogin\bin\Debug\accountlogin.exe.config
+D:\dbms project\from scratch\accountlogin\bin\Debug\accountlogin.exe
+D:\dbms project\from scratch\accountlogin\bin\Debug\accountlogin.pdb
+D:\dbms project\from scratch\accountlogin\bin\Debug\MySql.Data.dll
+D:\dbms project\from scratch\accountlogin\bin\Debug\Google.Protobuf.dll
+D:\dbms project\from scratch\accountlogin\bin\Debug\ZstdNet.dll
+D:\dbms project\from scratch\accountlogin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\dbms project\from scratch\accountlogin\bin\Debug\BouncyCastle.Crypto.dll
+D:\dbms project\from scratch\accountlogin\bin\Debug\Ubiety.Dns.Core.dll
+D:\dbms project\from scratch\accountlogin\bin\Debug\System.Memory.dll
+D:\dbms project\from scratch\accountlogin\bin\Debug\System.Buffers.dll
+D:\dbms project\from scratch\accountlogin\bin\Debug\K4os.Compression.LZ4.dll
+D:\dbms project\from scratch\accountlogin\bin\Debug\K4os.Hash.xxHash.dll
+D:\dbms project\from scratch\accountlogin\bin\Debug\MySql.Data.xml
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.csproj.AssemblyReference.cache
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.csproj.SuggestedBindingRedirects.cache
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.exe.config
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.achivementsUserControl.resources
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.addUserControl1.resources
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.adminDahboard.resources
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.FacultyDashboard.resources
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.Form1.resources
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.Properties.Resources.resources
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.RemoveUserControl1.resources
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.csproj.GenerateResource.cache
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.csproj.CoreCompileInputs.cache
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.csproj.CopyComplete
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.exe
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.pdb
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.addAchievementUserControl.resources
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.resetPassword.resources
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.updateProfile.resources
+D:\dbms project\from scratch\accountlogin\obj\Debug\accountlogin.addExperience.resources
